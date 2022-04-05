@@ -41,6 +41,10 @@ The deep learning model performed supervised learning by training on the "featur
    * This allowed us to visualize which columns had more than 10 unique values and, thus, would need bucketing into an "other" column to reduce the number of dummy columns that would result when converting categorical variables to numerical format later. 
    * Two categorical variables, "APPLICATION_TYPE" and "CLASSIFICATION" fell into this category. "ASK_AMT" was a numerical column and thus did not need attention.
 
+  ![image](https://user-images.githubusercontent.com/94253815/161868565-57837af5-b718-4a2f-a6d2-ddccd3b1b5f2.png)
+
+
+
  * Compiling, Training, and Evaluating the Model
 
    * How many neurons, layers, and activation functions did you select for your neural network model, and why?
