@@ -16,10 +16,26 @@ The deep learning model performed supervised learning by training on the "featur
  
 
    * What variables are considered targets for your model?
+   * "IS_SUCCESSFUL" column
+  
+  ![image](https://user-images.githubusercontent.com/94253815/161867070-1b915e96-ef98-403e-b92c-e02a0b7b866e.png)
+
 
    * What variable are considered to be features for your model?
+      * APPLICATION_TYPE—Alphabet Soup application type
+      * AFFILIATION—Affiliated sector of industry
+      *  CLASSIFICATION—Government organization classification
+      *  USE_CASE—Use case for funding
+      *  ORGANIZATION—Organization type
+      *  STATUS—Active status
+      *  INCOME_AMT—Income classification
+      *  SPECIAL_CONSIDERATIONS—Special consideration for application
+      *  ASK_AMT—Funding amount requested
 
-   * What variables  are neither targets nor features, and should be removed from the input data?
+
+   * The number of unique values from each column was calculated using the nunique() method from the pandas library. 
+   * This allowed us to visualize which columns had more than 10 unique values and, thus, would need bucketing into an "other" column to reduce the number of dummy columns that would result when converting categorical variables to numerical format later. 
+   * Two categorical variables, "APPLICATION_TYPE" and "CLASSIFICATION" fell into this category. "ASK_AMT" was a numerical column and thus did not need attention.
 
  * Compiling, Training, and Evaluating the Model
 
