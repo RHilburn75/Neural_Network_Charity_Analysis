@@ -60,8 +60,13 @@ The deep learning model performed supervised learning by training on the "featur
    * Loss - 55.47%
    * Accuracy -72.52%
    
+   ![image](https://user-images.githubusercontent.com/94253815/161869758-7aaf5550-ab18-437e-ad6e-1ef234fa1cef.png)
+
+  ##Optimization Test
+   * 1st go around did not give us th resluts we were looking for. Some changes were done to see if we could improve proformance.
+
+   * Optimization 1 
    
    
-   * What steps did you take to try and increase model performance?
 
 ## Summary
