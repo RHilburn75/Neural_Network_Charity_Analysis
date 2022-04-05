@@ -10,7 +10,9 @@ The deep learning model performed supervised learning by training on the "featur
  * Data Preprocessing
     * To begin, the dat was inspected and analyzed.
     * "EIN and "NAME" were dropped due to being deemed unuseful.
- 
+    
+ ![image](https://user-images.githubusercontent.com/94253815/161866882-6bae8562-bc2c-467a-bb31-927c0ebf2bd1.png)
+
  
 
    * What variables are considered targets for your model?
