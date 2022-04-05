@@ -50,7 +50,18 @@ The deep learning model performed supervised learning by training on the "featur
  * Compiling, Training, and Evaluating the Model
 
    * How many neurons, layers, and activation functions did you select for your neural network model, and why?
+   ![image](https://user-images.githubusercontent.com/94253815/161868997-3921da17-f2d1-4fd3-8216-5944d477ff67.png)
+   * 80 Neurons used for the 1st layer
+   * 2nd hidden layer - 30 layers chosen - wanted to achieve additional processing without overfitting.
+   * In both layers, "relu" activation function was was used and on the final output, "sigmoid" function was used.
+   
    * Were you able to achieve the target model performance?
+   * I was not able to hit the target performance on the 1st go around.
+   * Loss - 55.47%
+   * Accuracy -72.52%
+   
+   
+   
    * What steps did you take to try and increase model performance?
 
 ## Summary
