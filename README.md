@@ -44,6 +44,8 @@ The deep learning model performed supervised learning by training on the "featur
   ![image](https://user-images.githubusercontent.com/94253815/161868565-57837af5-b718-4a2f-a6d2-ddccd3b1b5f2.png)
 
 
+  ![image](https://user-images.githubusercontent.com/94253815/161868810-ad245c7c-e047-4a05-965c-f89cbc05402a.png)
+
 
  * Compiling, Training, and Evaluating the Model
 
