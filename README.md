@@ -33,7 +33,11 @@ The deep learning model performed supervised learning by training on the "featur
       *  ASK_AMT—Funding amount requested
 
 
-   * The number of unique values from each column was calculated using the nunique() method from the pandas library. 
+   * The number of unique values from each column was calculated using the nunique() method from the pandas library.
+   
+   ![image](https://user-images.githubusercontent.com/94253815/161868406-9f2d3033-19e4-4a89-b229-a2f2edebeaf6.png)
+
+   
    * This allowed us to visualize which columns had more than 10 unique values and, thus, would need bucketing into an "other" column to reduce the number of dummy columns that would result when converting categorical variables to numerical format later. 
    * Two categorical variables, "APPLICATION_TYPE" and "CLASSIFICATION" fell into this category. "ASK_AMT" was a numerical column and thus did not need attention.
 
