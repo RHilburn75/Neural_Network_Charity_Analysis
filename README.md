@@ -69,7 +69,9 @@ The deep learning model performed supervised learning by training on the "featur
    ![image](https://user-images.githubusercontent.com/94253815/161870078-b1c49782-8b46-41ae-8def-133a34e2a11c.png)
 
    * Optimization 2
-   
+   ![image](https://user-images.githubusercontent.com/94253815/161870190-170531df-6ca9-426c-a96e-fca74070a531.png)
+
+   * Optimization 3
    
 
 ## Summary
