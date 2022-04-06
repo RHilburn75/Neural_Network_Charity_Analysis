@@ -66,13 +66,16 @@
   ##Optimization Test
    * 1st go around did not give us th resluts we were looking for. Some changes were done to see if we could improve proformance.
 
-   * Optimization 1 
+   * Optimization 1
+    
    ![image](https://user-images.githubusercontent.com/94253815/161870078-b1c49782-8b46-41ae-8def-133a34e2a11c.png)
 
    * Optimization 2
+   
    ![image](https://user-images.githubusercontent.com/94253815/161870190-170531df-6ca9-426c-a96e-fca74070a531.png)
 
    * Optimization 3
+   
    ![image](https://user-images.githubusercontent.com/94253815/161870351-5b59429a-3ac5-4262-9900-6c68557ad2f4.png)
 
 
