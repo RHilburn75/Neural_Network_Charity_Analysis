@@ -66,6 +66,9 @@ The deep learning model performed supervised learning by training on the "featur
    * 1st go around did not give us th resluts we were looking for. Some changes were done to see if we could improve proformance.
 
    * Optimization 1 
+   ![image](https://user-images.githubusercontent.com/94253815/161870078-b1c49782-8b46-41ae-8def-133a34e2a11c.png)
+
+   * Optimization 2
    
    
 
