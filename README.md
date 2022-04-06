@@ -81,3 +81,20 @@
 
 ## Summary
   After doing an initial test and then 3 more after that, the end result never hit the 75% goal which was asked.  Further tests and analysis could be performed, but for my test, we never succeeeded.
+  * Inital Test
+     - Loss= 55.47%
+     - Accuracy = 72.52%
+     
+  * Optimization 1
+     - Loss = 55.51%
+     - Accuracy = 72.74%
+   
+  * Optimization 2
+     - Loss = 55.57%
+     - Accuracy = 72.59%
+    
+  * Optimization 3
+     - Loss = 55.30%
+     - Accuracy = 72.78%
+     
+  Overall, this analysis demonstrates not only a useful procedure for implementing a deep learning model but also the challenge of discerning the best instances for when to employ a deep learning model in the first place. In the end, the best way to prepare and optimize deep learning models while keeping a broad understanding of all competitive supervised machine learning techniques is a skill that requires continual refining and tweaking in order to narrow down the result.
