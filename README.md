@@ -2,7 +2,8 @@
 
 ## Overview of the Analysis
   The purpose of this analysis was to employ deep learning models in order to aid a fictitious company named AlphabetSoup.  By training a deep learning model on a retrospective dataset of about 30,000 historical donations for both successful and unsuccessful outcomes, the model served as a binary classifier to predict whether applicants would be successful if given funding. In summary, this would help Alphabet Soup know where to place their funds.
-The deep learning model performed supervised learning by training on the "feature" columns from the dataset to predict a "target" column containing binary values of "0" or "1", as these numbers were indicative of whether the donation of each observation produced an unsuccessful or successful outcome.  To maximize the performance and prepare it for the neural network model, the data required significant preprocessing. Following this, the data was compliled, trained, and the results were evaluated. The details and results of this process are described further below.
+  
+  The deep learning model performed supervised learning by training on the "feature" columns from the dataset to predict a "target" column containing binary values of "0" or "1", as these numbers were indicative of whether the donation of each observation produced an unsuccessful or successful outcome.  To maximize the performance and prepare it for the neural network model, the data required significant preprocessing. Following this, the data was compliled, trained, and the results were evaluated. The details and results of this process are described further below.
  
 
 ## Results
@@ -72,6 +73,8 @@ The deep learning model performed supervised learning by training on the "featur
    ![image](https://user-images.githubusercontent.com/94253815/161870190-170531df-6ca9-426c-a96e-fca74070a531.png)
 
    * Optimization 3
-   
+   ![image](https://user-images.githubusercontent.com/94253815/161870351-5b59429a-3ac5-4262-9900-6c68557ad2f4.png)
+
 
 ## Summary
+  After doing an initial test and then 3 more after that, the end result never hit the 75% goal which was asked.  Further tests and analysis could be performed, but for my test, we never succeeeded.
